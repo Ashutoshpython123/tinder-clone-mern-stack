@@ -1,0 +1,39 @@
+.Footer{
+    position:fixed;
+    display: flex;
+    justify-content: space-evenly;
+    bottom: 2vh;
+    width: 100%;
+}
+
+.Footer .MuiIconButton-root {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.replay{
+    padding: 2vw !important;
+    color:darkgoldenrod !important;
+}
+
+.close{
+    padding: 2vw !important;
+    color:blue !important;
+}
+
+.star{
+    padding: 2vw !important;
+    color:grey !important;
+}
+
+.favourite{
+    padding: 2vw !important;
+    color:red !important;
+}
+
+.flashon{
+    padding: 2vw !important;
+    color:chartreuse !important;
+}
